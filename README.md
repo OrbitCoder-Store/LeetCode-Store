@@ -21,4 +21,12 @@
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/OrbitCoder-Store/LeetCode-Store/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/OrbitCoder-Store/LeetCode-Store/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/OrbitCoder-Store/LeetCode-Store/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
