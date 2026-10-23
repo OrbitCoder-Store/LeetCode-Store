@@ -25,8 +25,13 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/OrbitCoder-Store/LeetCode-Store/tree/master/0001-two-sum) |
+| [0636-exclusive-time-of-functions](https://github.com/OrbitCoder-Store/LeetCode-Store/tree/master/0636-exclusive-time-of-functions) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/OrbitCoder-Store/LeetCode-Store/tree/master/0001-two-sum) |
+## Stack
+|  |
+| ------- |
+| [0636-exclusive-time-of-functions](https://github.com/OrbitCoder-Store/LeetCode-Store/tree/master/0636-exclusive-time-of-functions) |
 <!---LeetCode Topics End-->
